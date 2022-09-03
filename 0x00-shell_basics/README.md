@@ -1,1 +1,1 @@
-delete betty directory
+changing directory to another
