@@ -1,1 +1,1 @@
-moving file from betty to tmp
+delete the filre betty
